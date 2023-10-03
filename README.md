@@ -22,3 +22,9 @@ Adding an image to README.md
 
 
 ![insightful_transformation](https://github.com/Surender2/Images/assets/114329084/d58ebb3c-d896-4329-ae5e-88d6441f4ee6)
+![Customer_Performance_Report_SK](https://github.com/Surender2/Images/assets/114329084/2762be69-b4e5-453b-89e8-256ea6f4dd7c)
+![Finance_Report_1](https://github.com/Surender2/Images/assets/114329084/a9d6abc6-7b8a-489a-8a82-176df4325933)
+![Finance_Report_2](https://github.com/Surender2/Images/assets/114329084/b88ec4ec-fd9a-4abc-b8b6-8b1cb0d0a966)
+![Market_Report_SK](https://github.com/Surender2/Images/assets/114329084/582c70ae-d71e-4bb9-bb61-9451b41e88f7)
+![Project_Prority_matrix_Report](https://github.com/Surender2/Images/assets/114329084/9539ad86-066d-4283-b2e9-06a502f5a962)
+![Scenario Planning Tool_SK](https://github.com/Surender2/Images/assets/114329084/bb2345aa-e469-46fe-97d3-93b5a0400d26)
